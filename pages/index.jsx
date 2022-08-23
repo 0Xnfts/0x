@@ -9,6 +9,7 @@ const Home = () => {
  const [fetchForCollection, setFetchForCollection]=useState(false)
 
 
+ 
   const fetchNFTs = async() => {
     let nfts; 
     console.log("fetching nfts");
