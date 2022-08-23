@@ -1,3 +1,4 @@
+//the
 import { NFTCard } from "./nftCard"
 import { useState } from 'react'
 
@@ -76,4 +77,9 @@ const Home = () => {
    </div>
  )
 }
+
+
+
+
+
 export default Home
